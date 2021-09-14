@@ -1,0 +1,60 @@
+body
+{
+    font-family:  'Dancing Script', cursive;
+    background-color: #9700fb;
+}
+
+.header_div
+{
+    background-color: deeppink;
+    color: yellow;
+    font-size: 200px !important;
+    font-weight: bolder;
+}
+
+.header_div p{
+    font-family: 'Dancing Script', cursive;
+    color:yellow;
+    letter-spacing: 2px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.main_div button
+{
+    font-family: 'Dancing Script', cursive; 
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    background-color: red;
+    color: yellow;
+    font-size: 25px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: yellow;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    background-color: rgb(255, 5, 101);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px gray;
+}
+
+#result_label
+{
+    background-color:rgb(38, 0, 255) ;
+    color: yellow;
+    font-size: 25px;
+}
+#result_confidence
+{
+    background-color: rgb(38, 0, 255);
+    color: yellow;
+    font-size: 25px;
+    font-weight: bolder;
+}
